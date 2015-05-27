@@ -19,7 +19,7 @@ the residual image will contain the residual of the bright stars present in the 
 The Find Supernovae program compares the coordinates of the objects in the residual image with the 
 coordinates of bright stars in the master image and generates a list of potential supernovae candidates.
 
-Example: 
+//Example: 
 $ipython find_supernovae(list_that_is_being_checked,reference list) 
 The first that is being checked contains the coordinates of the residuals. 
 
